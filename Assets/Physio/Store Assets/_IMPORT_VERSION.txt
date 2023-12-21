@@ -1,0 +1,25 @@
+Import Oculus Integration
+
+To keep the git repository small, this folder is ignored but you need to import/update it manually from:
+
+https://developer.oculus.com/downloads/package/unity-integration/
+
+https://assetstore.unity.com/packages/3d/props/food/tinned-food-89246/
+
+https://assetstore.unity.com/packages/3d/characters/animals/animals-free-260727/
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353/
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/autumn-mountain-52251/
+
+https://assetstore.unity.com/packages/3d/props/exterior/stones-40329/
+
+https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373/
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372/
+
+https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555/
+
+
+
+Version  44.0 
